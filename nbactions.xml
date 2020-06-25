@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+        <action>
+            <actionName>CUSTOM-tomEE</actionName>
+            <displayName>tomEE</displayName>
+            <goals>
+                <goal>tomee:run</goal>
+                
+            </goals>
+        </action>
+    </actions>
